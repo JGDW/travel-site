@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a59e3049-6e92-4e4b-9505-2a21fc5685fd" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/styles/modules/_feature-item.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/styles/modules/_section-title.css" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/assets/styles/modules/_generic-content-container.css" afterPath="$PROJECT_DIR$/app/assets/styles/modules/_generic-content-container.css" />
-      <change beforePath="$PROJECT_DIR$/app/assets/styles/modules/_row.css" afterPath="$PROJECT_DIR$/app/assets/styles/modules/_row.css" />
-      <change beforePath="$PROJECT_DIR$/app/assets/styles/styles.css" afterPath="$PROJECT_DIR$/app/assets/styles/styles.css" />
-      <change beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change beforePath="$PROJECT_DIR$/app/assets/styles/modules/_feature-item.css" afterPath="$PROJECT_DIR$/app/assets/styles/modules/_feature-item.css" />
       <change beforePath="$PROJECT_DIR$/app/temp/styles/styles.css" afterPath="$PROJECT_DIR$/app/temp/styles/styles.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_feature-item.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_feature-item.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/styles/modules/_feature-item.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+            <state relative-caret-position="425">
+              <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -64,11 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_section-title.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_section-title.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/styles/modules/_section-title.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+            <state relative-caret-position="425">
+              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -111,8 +105,8 @@
         <option value="$PROJECT_DIR$/app/assets/styles/styles.css" />
         <option value="$PROJECT_DIR$/app/assets/styles/modules/_generic-content-container.css" />
         <option value="$PROJECT_DIR$/app/index.html" />
-        <option value="$PROJECT_DIR$/app/assets/styles/modules/_feature-item.css" />
         <option value="$PROJECT_DIR$/app/assets/styles/modules/_section-title.css" />
+        <option value="$PROJECT_DIR$/app/assets/styles/modules/_feature-item.css" />
       </list>
     </option>
   </component>
@@ -245,12 +239,12 @@
       <option name="presentableId" value="Default" />
       <updated>1519746610949</updated>
       <workItem from="1519746613077" duration="15855000" />
-      <workItem from="1519802831642" duration="11112000" />
+      <workItem from="1519802831642" duration="11604000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26967000" />
+    <option name="totallyTimeSpent" value="27459000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1066" extended-state="6" />
@@ -473,18 +467,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/styles/modules/_feature-item.css">
+    <entry file="file://$PROJECT_DIR$/app/assets/styles/modules/_section-title.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        <state relative-caret-position="425">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/styles/modules/_section-title.css">
+    <entry file="file://$PROJECT_DIR$/app/assets/styles/modules/_feature-item.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        <state relative-caret-position="425">
+          <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
           <folding />
         </state>
       </provider>
